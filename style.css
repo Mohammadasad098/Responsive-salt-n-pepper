@@ -18,7 +18,7 @@
 }
 
 
-@media(max-width:720px){
+@media(max-width:740px){
     #iconn{
         display: block;
         
@@ -51,7 +51,7 @@
     
 
 }
-@media(min-width:720px){
+@media(min-width:740px){
     #nav{
         display: none;
     }
